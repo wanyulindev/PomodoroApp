@@ -3,7 +3,7 @@
 
 
 ## What I learned:
-+ how to build a Pomodoro GUI Application completely from scratch using Tkinter
++ how to build a Pomodoro GUI Application completely from scratch using TKinter
 + knowledge of Dynamic Typing
 + knowledge of function arguments, default arguments, *args, and **kwargs
 
