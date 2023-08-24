@@ -1,4 +1,4 @@
-# PomodoroApp
+# Pomodoro App
 "The Pomodoro Technique", the famous book/technique by Francesco Cirillo that helps people time-manage and to get more stuffs done.
 
 
