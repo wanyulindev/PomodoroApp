@@ -1,10 +1,10 @@
-# PomodoroApp(Work-in-Progress)
-"The Pomodoro Technique", the famous book/technique by Francesco Cirillo that helps people time-manage and to get more stuff done.
+# PomodoroApp
+"The Pomodoro Technique", the famous book/technique by Francesco Cirillo that helps people time-manage and to get more stuffs done.
 
 
 ## What I learned:
 + how to build a Pomodoro GUI Application completely from scratch using TKinter
-+ knowledge of Dynamic Typing
++ knowledge of Dynamic Typing in Python 
 + knowledge of function arguments, default arguments, *args, and **kwargs
 
 
